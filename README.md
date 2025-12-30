@@ -30,10 +30,6 @@
 
 <h3>Overall</h3>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamNguyen2312&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</p>
-
 - 🔭 I’m currently Working on **Web App, Application, Microservices Architecture**
 - 🌱 I’m currently learning **NodeJs & ASP.NET Core & SQL**
 - 📫 How to reach me: **th3m1nd@gmail.com**
