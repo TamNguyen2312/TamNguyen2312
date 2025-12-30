@@ -5,9 +5,7 @@
 </h2>
 
 <h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Front-end Developer</marquee>
-  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Back-end Developer</marquee>
-  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Javascript Developer</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">I am a developer with an endless passion for JavaScript.</marquee>
 </h3>
 
 <div align="center">
