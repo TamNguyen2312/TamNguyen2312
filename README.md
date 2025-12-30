@@ -1,11 +1,13 @@
 <h1 align="center">Hi. Im Nguyen Ho Minh Tam 👋</h1>
 
-<h2 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Application+;Mobile+Application;Back-end+Application)](https://git.io/typing-svg)
-</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Application;Mobile+Application;Back-end+Application&center=true&vCenter=true&random=false" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">I am a developer with an endless passion for JavaScript.</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="3" width="60%">I am a developer with an endless passion for JavaScript.</marquee>
 </h3>
 
 <div align="center">
