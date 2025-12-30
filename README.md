@@ -1,9 +1,9 @@
 <h1 align="center">Hi. Im Nguyen Ho Minh Tam 👋</h1>
 
 <h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" width="50%">Front-end Developer</marquee>
-  <marquee behavior="scroll" direction="left" scrollamount="5" width="50%">Back-end Developer</marquee>
-  <marquee behavior="scroll" direction="left" scrollamount="5" width="50%">Javascript Developer</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Front-end Developer</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Back-end Developer</marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Javascript Developer</marquee>
 </h3>
 
 <div align="center">
