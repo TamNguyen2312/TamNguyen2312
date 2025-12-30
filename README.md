@@ -1,5 +1,7 @@
 <h1 align="center">Hi. Im Nguyen Ho Minh Tam 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Application+;Mobile+Application;Back-end+Application)](https://git.io/typing-svg)
+
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Front-end Developer</marquee>
   <marquee behavior="scroll" direction="left" scrollamount="1" width="50%">Back-end Developer</marquee>
